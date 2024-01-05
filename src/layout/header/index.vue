@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <router-View></router-View>
-  </div>
+  <div>头部</div>
 </template>
 <script lang="ts" setup>
 import { ref, reactive } from "vue";
